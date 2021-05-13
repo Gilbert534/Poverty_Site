@@ -1,0 +1,60 @@
+body{
+background-color: gray; 
+}
+
+h1{
+    
+    font-size: 60;
+    font-family: cursive;
+    border-style:dashed;
+    text-shadow: 3px 3px;
+   
+    
+}
+
+.header{
+    font-size: 30;
+    font-family: cursive;
+    text-shadow: 3px 3px;
+    border-style:dashed;
+    
+}
+
+p{
+    font-size: 20;
+    font-family: cursive;
+}
+
+
+
+section{
+    padding: 0 100px;
+    background: url(PovertyHomePageImage.jpg);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+}
+
+.image{
+    border-style:dotted;
+    border:15px solid black;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
