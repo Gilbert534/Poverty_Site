@@ -7,7 +7,8 @@ h1{
     font-size: 60;
     font-family: cursive;
     border-style:dashed;
-    text-shadow: 3px 3px;
+    color: white;
+  text-shadow: 2px 2px 4px blue;
    
     
 }
@@ -15,7 +16,8 @@ h1{
 .header{
     font-size: 30;
     font-family: cursive;
-    text-shadow: 3px 3px;
+    color: white;
+    text-shadow: 2px 2px 4px blue;
     border-style:dashed;
     
 }
@@ -23,38 +25,16 @@ h1{
 p{
     font-size: 20;
     font-family: cursive;
+    color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
-
-
-section{
-    padding: 0 100px;
-    background: url(PovertyHomePageImage.jpg);
-    height:100vh;
-    display:flex;
-    justify-content:center;
-}
 
 .image{
     border-style:dotted;
     border:15px solid black;  
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
+a{
+    color: yellow;
+}
