@@ -1,11 +1,14 @@
 p {
     color: whitesmoke;
     font-size: 17;
+    font-family:cursive;
 }
 body {
     background-color: black;
+
 }
 h1{
     color: whitesmoke;
     font-size: 50;
+    font-family:cursive;
 }
