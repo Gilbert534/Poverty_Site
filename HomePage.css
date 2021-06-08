@@ -1,10 +1,15 @@
 body{
-background-color: rgb(0, 0, 0); 
+background-image:url(BackgroundImage.jpg);
+background-size:cover;
 margin:0;
 padding:0;
 font-family: 'Roboto Mono', monospace;
 font-family:cursive;
+
 }
+
+
+
 
 .ThisImage{
   width:600px;
