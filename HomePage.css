@@ -1,5 +1,5 @@
 body{
-background-image:url(BackgroundImage.jpg);
+background-image:url(BackgroundImage3.jpg);
 background-size:cover;
 margin:0;
 padding:0;
@@ -65,7 +65,7 @@ h1{
 p{
     font-size: 20;
     font-family: cursive;
-    color: darkgrey;
+    color: black;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   border-style:dashed;
   margin:225;
@@ -83,17 +83,19 @@ p{
 }
 
 a{
-    color: yellow;
+    color: White;
 }
 
 .desc{
-  color: white;
+  color: black;
+  font-family: cursive;
+  font-size:20;
 }
 
 .gallery{
 border-style:dashed;
 border-color: rgb(2, 232, 248)
-padding
+col black;
 }
 
 .container-fluid{

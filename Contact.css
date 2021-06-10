@@ -1,7 +1,7 @@
 .card {
-    height: 200px;
+    height: 460px;
     width: 20%;
-    background-color: black;
+    background-color:plum;
     float: left;
     text-align: left;
     border-style: solid;
@@ -9,7 +9,7 @@
   }     
 body{
     background-image:url(sky2.jpg);
-    
+
     color: whitesmoke
 }
 h2{
